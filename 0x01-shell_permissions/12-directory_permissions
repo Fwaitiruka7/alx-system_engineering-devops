@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir /tmp/alx-system_engineering-devops/0x01-shell_permissions
+mkdir -m751 my_dir /tmp/alx-system_engineering-devops/0x01-shell_permissions
