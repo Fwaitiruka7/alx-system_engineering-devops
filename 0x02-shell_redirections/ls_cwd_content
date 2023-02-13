@@ -1,0 +1,55 @@
+total 208
+drwxr-xr-x 2 root root 4096 Feb 13 13:25 .
+drwxr-xr-x 6 root root  121 Feb 13 08:49 ..
+-rw-r--r-- 1 root root   46 Feb 13 13:13 \*\\
+-rw-r--r-- 1 root root   12 Feb 13 13:00 \*$\\"Best School"\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 12:54 \*'$\\"Best School"\'$\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 12:51 \*$\\"Best School"\$\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 10:13 "\?$*'MaRViN'*$?\"
+-rwxr--r-- 1 root root   32 Feb 13 05:44 0-hello_world
+-rwxr--r-- 1 root root   28 Feb 13 06:04 1-confused_smiley
+-rwxr--r-- 1 root root   28 Feb 13 06:34 2-hellofile
+-rwxr--r-- 1 root root   40 Feb 13 06:41 3-twofiles
+-rwxr--r-- 1 root root   35 Feb 13 06:48 4-lastlines
+-rwxr--r-- 1 root root   35 Feb 13 06:53 5-firstlines
+-rwxr--r-- 1 root root   40 Feb 13 07:10 6-third_line
+-rwxr--r-- 1 root root   84 Feb 13 13:13 7-file
+-rwxr--r-- 1 root root   36 Feb 13 13:24 8-cwd_state
+-rw-r--r-- 1 root root   39 Feb 13 09:40 \*\'Best
+-rw-r--r-- 1 root root   38 Feb 13 09:46 \*\\"Best
+-rw-r--r-- 1 root root   40 Feb 13 11:25 \*\\'"Best
+-rw-r--r-- 1 root root   12 Feb 13 13:02 \*''\\"Best School"\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 13:04 \*'\"Best School"\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 13:10 \*'\\"Best School"\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 09:34 \*\'"Best School"\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 10:32 \*\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 10:06 \*\'Best School'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 12:22 \*\\""Best School"\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 12:38 \*\\"Best School"\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 12:42 \*\\"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 10:54 \*\\"Best School"\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 12:35 \*\\"Best School"\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 12:40 \*\\"Best School"\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 10:49 \*\\"Best School\"\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 10:45 \*\\'"Best School"'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 10:22 \*\\'"Best School"\'\\*$\?\*\*\*\**)
+-rw-r--r-- 1 root root   12 Feb 13 10:24 \*\\'"Best School"\'\\*$\?\*\*\*\**:)
+-rw-r--r-- 1 root root   12 Feb 13 12:23 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 13:13 \*\\'"Best School"\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 11:23 \*\\'Best School''\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 09:56 \*\\'Best School'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 09:13 \*\\'Best School\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 11:14 \*\\\"Best School"\\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 10:47 \*\\\"Best School\"\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 10:56 \*\\\\"Best School"\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 11:26 \*\\\\"Best School\"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 12:25 \*\\\Best School''\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 09:58 \*\\\Best School'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 09:43 \*\\Best School\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 12:57 \*'\\"Best School"\'$\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 13 12:56 \*\\\Best School''$\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   17 Feb 13 10:42 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root  796 Feb 13 07:16 iacta
+-rw-r--r-- 1 root root    0 Feb 13 13:25 ls_cwd_content
+-rw-r--r-- 1 root root  665 Feb 13 07:20 README.md
+-rw-r--r-- 1 root root   28 Feb 13 06:33 :wq
