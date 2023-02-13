@@ -2,5 +2,6 @@
 All of the following files are scripts commands
 |Filename | Description |
 |---------|-------------|
-| '0.Hello World' | Prints hello world when executed |
-| 'Confused smiley' | Displays confused smiley |
+| `0-Hello_World` | Prints hello world when executed |
+| `1-Confused_smiley` | Displays confused smiley |
+| `2-hellofile | Diplays the contents of the `/etc/passwd` |
