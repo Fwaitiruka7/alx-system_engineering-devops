@@ -6,4 +6,5 @@ All of the following files are scripts commands
 | `1-Confused_smiley` | Displays confused smiley |
 | `2-hellofile` | Diplays the contents of the `/etc/passwd` |
 | `3-twofiles` | Display the content of `/etc/passwd` and `/etc/hosts` || `4-lastlines` | Last lines of a file |
-| `5-firstlines` | Dispay the first 10 lines of `/etc/passwd` | 
+| `5-firstlines` | Dispay the first 10 lines of `/etc/passwd` |
+| `6-third_line` | Displays the third line of the file `iacta` | 
