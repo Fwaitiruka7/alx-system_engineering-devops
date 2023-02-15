@@ -1,2 +1,4 @@
-#Contains the shell commands of the bash
-#0x02-shell redirectorions contains the redirection tasks
+## `0x03-shell_variables_expansion`
+| Project | Description |
+|---------| -------------|
+| `0.<o>` | Create a script that creates an alias |
