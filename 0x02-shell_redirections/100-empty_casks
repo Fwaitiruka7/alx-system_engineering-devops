@@ -1,2 +1,2 @@
 #!/bin/bash
-find ~/alx-system_engineering-devops -type d,f -empty | ls -la
+find ~/alx-system_engineering-devops -type d,f -empty | ls | head
