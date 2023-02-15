@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d,f -empty | ls -lRa
+find ~/alx-system_engineering-devops -type d,f -empty | ls -la
